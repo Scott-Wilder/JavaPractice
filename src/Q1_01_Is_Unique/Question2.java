@@ -1,5 +1,5 @@
 package Q1_01_Is_Unique;
-
+//q2
 public class Question2 {
     /* Assumes only letters a through z. */
     public static boolean isUniqueChars(String str) {
